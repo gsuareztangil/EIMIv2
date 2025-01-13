@@ -1,0 +1,8 @@
+paramiko
+termcolor
+python-dotenv
+scp
+r2pipe
+nltk
+pexpect
+requests
