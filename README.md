@@ -76,3 +76,10 @@ This research was supported in part by TED2021-132900A-I00 and by TED2021-131115
 of the project LAZARUS (https://lazarus-he.eu/) (Grant Agreement no. 101070303). The content of this article
 does not reflect the official opinion of the European Union. Responsibility for the information and views
 expressed therein lies entirely with the authors.
+
+
+## Funding support
+
+Part of this research was supported by the Spanish National Cybersecurity Institute (INCIBE) under Proyectos Estratégicos de Ciberseguridad -- CIBERSEGURIDAD EINA UNIZAR and by the Recovery, Transformation and Resilience Plan funds, financed by the European Union (Next Generation).
+
+![INCIBE_logos](INCIBE_logos.jpg)
